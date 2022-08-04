@@ -1,8 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a Next.js Framework built in with express.js, nodemailer, nextauth.js, and tailwind.
 
 ## Getting Started
 
-First, run the development server:
+First, run npm install to get the packages then run the development server:
 
 ```bash
 npm run dev
